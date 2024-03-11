@@ -1,4 +1,9 @@
-
+/*
+Program: EECS 348 Lab 05 Problem 1
+Function: Read an input file with sales data over a 12-month span and print out a sales report
+Author: Aiden Burke
+Date Modified: 03/10/2024
+*/
 #include <stdio.h>
 int main(){
     printf("Monthly Sales Report for 2023\n");
